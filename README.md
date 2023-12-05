@@ -1,1 +1,1 @@
-Un proiect pentru un magazin de pizza customizabile
+Un proiect interesant pentru un magazin de pizza customizabile

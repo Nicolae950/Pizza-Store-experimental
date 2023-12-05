@@ -1,4 +1,4 @@
-experiments with :
+technologies with :
 - .NET
 - JavaScript
 - JavaScript DOM elements
