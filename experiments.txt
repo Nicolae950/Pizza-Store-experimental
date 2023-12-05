@@ -1,0 +1,5 @@
+experiments with :
+- .NET
+- JavaScript
+- JavaScript DOM elements
+- ajax
